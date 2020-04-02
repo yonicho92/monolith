@@ -1,5 +1,6 @@
 # monolith
 참고:  
+[![Build Status](https://dev.azure.com/yonicho/user21pjt/_apis/build/status/user21pjt-CI?branchName=master)](https://dev.azure.com/yonicho/user21pjt/_build/latest?definitionId=2&branchName=master)
 Order 와 product 는 N:1 (다대일) 관계이다.  
 
 
